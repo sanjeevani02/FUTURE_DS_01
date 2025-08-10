@@ -11,6 +11,7 @@ The tasks involve data cleaning, analysis, visualization, and business storytell
 - Microsoft Excel – Data cleaning & basic analysis  
 - DAX (Data Analysis Expressions) – Calculated columns and measures  
 - SQL – Optional preprocessing of datasets
+  
 📊 Task 1 Overview
 Objective:
 Analyze e-commerce sales data to identify:
@@ -22,6 +23,7 @@ Deliverables:
 - KPIs (Total Sales, Total Orders, Average Sales per Order)  
 - Visuals for trends, category performance, and top products  
 - Insights & recommendations for business decision-making
+  
  📬 Contact
 Name: Sanjeevani Mangrole 
 LinkedIn: [https://www.linkedin.com/in/sanjeevani-mangrole-72b616311]  
