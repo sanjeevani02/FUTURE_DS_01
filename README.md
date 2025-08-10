@@ -2,13 +2,16 @@
 Assignments for the **Future Interns – Data Science & Analytics Internship**
 
 **📌 About**
+
 This repository contains all my completed tasks and assignments for the **Future Interns Data Science & Analytics Internship program.  
 The tasks involve data cleaning, analysis, visualization, and business storytelling using tools like Power BI, Excel, and SQL.
 
 **📂 Repository Structure**
+
 - Task 1 – Business Sales Dashboard from E-commerce Data (`.pbix` file + insights)  
 - Future tasks will be added here as the internship progresses.
-🛠 Tools & Technologies Used
+**🛠 Tools & Technologies Used**
+  
 - Power BI Desktop – Data visualization & dashboard creation  
 - Microsoft Excel – Data cleaning & basic analysis  
 - DAX (Data Analysis Expressions) – Calculated columns and measures  
@@ -16,6 +19,7 @@ The tasks involve data cleaning, analysis, visualization, and business storytell
   
 📊 Task 1 Overview
 **Objective:**
+
 Analyze e-commerce sales data to identify:
 1. Best-selling products
 2. Peak sales periods
